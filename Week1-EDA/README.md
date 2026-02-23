@@ -1,8 +1,8 @@
-# Week 1 - 🤖 Intro to Machine Learning & Cleaning, Exploratory & Visualizing Data 
+# Week 1 - 🤖 Intro to Machine Learning & Cleaning, Exploratory & Visualizing Data
 
 During this first week we took a look at the initial steps of working with data, the different machine learning models we have available to us and the importance of cleaning, exploring and visualizing our data.
 
-## 🏆 The Challenge 
+## 🏆 The Challenge
 
 The challenge had us taking a look at a dataset of bank data about it's customers and various information the bank had about them.
 
@@ -78,12 +78,12 @@ _ROC Curve_
 
 Looking at the classification results, we can draw several conclusions:
 
--  The dataset is highly imbalanced: 80% no, 20% yes
+- The dataset is highly imbalanced: 80% no, 20% yes
 
--  The yes category has a poor accuracy rate
+- The yes category has a poor accuracy rate
 
--  The no category has a very good accuracy rate
+- The no category has a very good accuracy rate
 
--  Having an accuracy of 89% is misleading since some data points are classified better than others
+- Having an accuracy of 89% is misleading since some data points are classified better than others
 
--  For a real business, we would be failing our predictions for our subscribed users
+- For a real business, we would be failing our predictions for our subscribed users
